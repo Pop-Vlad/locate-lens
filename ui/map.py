@@ -2,7 +2,7 @@ import json
 
 from PyQt5 import QtCore, QtWebEngineWidgets, QtWebChannel, QtNetwork
 
-API_KEY = "AIzaSyAkIvjNbaAaVNE6JD6VJlFsoX3f_ZqiFUw"
+API_KEY = "*****"
 
 js_file = open("ui/map.js", "r")
 js = js_file.read()
